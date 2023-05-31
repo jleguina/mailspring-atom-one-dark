@@ -16,8 +16,9 @@ A fork on [Mailspring](https://www.getmailspring.com) email client's original `D
 
 ### Atom One Dark Red
 
-<img src="/one-dark-red.png" alt="Atom One Dark Red" width="600">
-<!-- ![Alt text](/one-dark-red.png "Atom One Dark Red") -->
+<img src="/one-dark-red/screenshot/custom-theme.png" alt="Atom One Dark Red" width="600">
+
+![Alt text](/one-dark-red/screenshot/custom-theme.png "Atom One Dark Red")
 
 ## Install
 
