@@ -5,9 +5,16 @@
 
 A fork on [Mailspring](https://www.getmailspring.com) email client's original `Default dark UI` theme to match up with the now-defunct [Atom Editor](https://github.blog/2022-06-08-sunsetting-atom/)'s `One Dark theme` with various accent colors.
 
+![Color reference](/color-reference.png "Color reference")
+
 ## Table of Contents
 
 - [Screenshots](#screenshots)
+  - [Atom One Dark Blue](#atom-one-dark-blue)
+  - [Atom One Dark Green](#atom-one-dark-green)
+  - [Atom One Dark Purple](#atom-one-dark-purple)
+  - [Atom One Dark Red](#atom-one-dark-red)
+  - [Atom One Dark Yellow](#atom-one-dark-yellow)
 - [Install](#install)
 - [Usage](#usage)
 - [License](#license)
