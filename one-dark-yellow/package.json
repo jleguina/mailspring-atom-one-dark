@@ -1,0 +1,12 @@
+{
+  "name": "atom-one-dark-yellow",
+  "title": "Atom One Dark Yellow",
+  "displayName": "Atom One Dark Yellow",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "A dark theme based on the Atom code editor. Color reference from https://github.com/joshdick/onedark.vim",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
